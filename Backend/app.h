@@ -2,7 +2,7 @@
 #include <string>
 #include <vector>
 #include <memory>
-#include "data_loader.h"
+#include "dataloader.h"
 
 struct AppConfig {
     // Тип визуализации
