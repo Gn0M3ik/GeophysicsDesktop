@@ -20,7 +20,7 @@ MainWindow::MainWindow(QWidget *parent)
     
     createActions();
     createMenus();
-    createToolBars
+    createToolBars();
     createStatusBar();
     readSettings();
 
